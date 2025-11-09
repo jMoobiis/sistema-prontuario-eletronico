@@ -92,6 +92,13 @@ Aplicação disponível em http://localhost:5173
 - PUT    /api/atendimentos/{id}
 - DELETE /api/atendimentos/{id}
 
+## Planejamento no Azure DevOps
+
+O planejamento do projeto foi realizado no **Azure DevOps Boards**, estruturando as tarefas em Features e Subtasks para o Frontend (Vue.js) e Backend (Laravel).
+
+🔗 **Acesse o board completo:**  
+[https://dev.azure.com/mobiglia/Sistema-Prontuario-Eletronico/_boards/board/t/Sistema-Prontuario-Eletronico%20Team/Epics](https://dev.azure.com/mobiglia/Sistema-Prontuario-Eletronico/_boards/board/t/Sistema-Prontuario-Eletronico%20Team/Epics)
+
 ## Autor
 
 **João Victor Mobiglia Podenciano**
